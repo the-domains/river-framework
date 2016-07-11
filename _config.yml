@@ -1,0 +1,14 @@
+layout_spectrum: 0.6245616551022977
+typography_spectrum: 0.8813959390390664
+color:
+  brandStrength: 0.69541494268924
+  lightness: 0.37755248229950666
+  saturation: 0.3856887510046363
+  rhythmicContrast: 0.9350463282316923
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+name: River Framework
