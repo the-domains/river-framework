@@ -1,13 +1,13 @@
 ---
 description: OBJECT-DOCUMENT MAPPER FOR NOSQL DATABASES
-dateModified: '2016-07-11T18:41:49.901Z'
-datePublished: '2016-07-11T18:43:58.130Z'
+dateModified: '2016-07-11T18:44:25.109Z'
+datePublished: '2016-07-11T18:45:06.928Z'
 title: River Framework
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eece4b09-93b8-400a-8e9b-04105ea4cc24.png
-starred: false
 sourcePath: _posts/2016-07-11-river-framework.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -15,7 +15,7 @@ _type: MediaObject
 
 ---
 # River Framework
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14bd7122c00343fe1918f3d220ebe77b/croprotate.png?cropheight=120&cropwidth=864&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Feece4b09-93b8-400a-8e9b-04105ea4cc24.png&x=17&y=10)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38b0a4eae275467aee9b1102c104878622a83e95.png)
 
 **OBJECT-DOCUMENT MAPPER FOR NOSQL DATABASES**
 
